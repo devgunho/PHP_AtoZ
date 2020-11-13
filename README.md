@@ -16,7 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/41619898/81622842-0bc32900-942d-11ea-9c39-5a53dfdef2cb.png)
 
-&nbsp;
+- My Custom `.php` Location
+  - `C:\xampp\htdocs\index.php`
+
+<br/>
 
 ### Debugging Environment
 
