@@ -8,7 +8,7 @@
 
 <p align="center">
     <img src="README.assets/php-logo.png"/>
-</p>)
+</p>
 
 <br/>
 
