@@ -28,3 +28,4 @@ class Greetings
 $g = new Greetings();
 echo $g->say("park");    //Hello park
 var_dump($g);   //object(Greetings)#1 (0) { }
+?>

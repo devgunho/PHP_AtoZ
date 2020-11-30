@@ -43,3 +43,4 @@ $name
 </p>
 EOT;
 echo$hdoc;
+?>

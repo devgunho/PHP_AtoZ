@@ -11,3 +11,4 @@ echo "<br>";
 $message = 'こんにちは';
 echo mb_strlen($message);   // 5 characters
 echo "<br>";
+?>
